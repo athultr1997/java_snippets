@@ -1,6 +1,6 @@
-build_pattern/Ketchup$Builder.class
 build_pattern/Food$Builder.class
-build_pattern/Ketchup$1.class
+build_pattern/Ketchup$Builder.class
 build_pattern/Ketchup.class
+build_pattern/Ketchup$1.class
 build_pattern/Food.class
 build_pattern/Ketchup$Flavours.class
